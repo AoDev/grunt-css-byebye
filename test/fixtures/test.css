@@ -1,0 +1,15 @@
+a {
+  font-size: 12px;
+}
+
+.hello {
+  background: red
+}
+
+.world {
+  color: blue
+}
+
+.another .world, .another {
+  display: block;
+}
