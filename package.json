@@ -1,7 +1,7 @@
 {
   "name": "grunt-css-byebye",
   "description": "Say goodbye to your unwanted css rules with this grunt plugin.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/AoDev/grunt-css-byebye",
   "author": {
     "name": "Kevin Purnelle",

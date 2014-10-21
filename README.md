@@ -69,7 +69,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Changelog
 
-### Release 0.1.0
+### Release 0.2.0
 
 First public release.
 Check [CSS Byebye](https://www.npmjs.org/package/css-byebye)
