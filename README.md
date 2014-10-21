@@ -17,7 +17,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-css-byebye');
 ```
 
-## The "css_byebye" task
+## The "cssbyebye" task
 
 ### Overview
 In your project's Gruntfile, add a section named `cssbyebye` to the data object passed into `grunt.initConfig()`.
@@ -30,9 +30,9 @@ grunt.initConfig({
     },
     your_target: {
       // Target-specific file lists and/or options go here.
-    },
-  },
-});
+    }
+  }
+})
 ```
 
 ### Options
@@ -60,7 +60,7 @@ grunt.initConfig({
       }
     }
   }
-});
+})
 ```
 
 
