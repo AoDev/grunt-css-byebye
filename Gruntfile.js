@@ -41,6 +41,23 @@ module.exports = function(grunt) {
       }
     },
 
+    // Bump version option
+    bump: {
+      options: {
+        files: ['package.json'],
+        updateConfigs: [],
+        commit: true,
+        commitMessage: 'Release v%VERSION%',
+        commitFiles: ['package.json'],
+        createTag: true,
+        tagName: '%VERSION%',
+        tagMessage: 'Version %VERSION%',
+        push: true,
+        pushTo: 'origin',
+        gitDescribeOptions: '--tags --always --abbrev=1 --dirty=-d'
+      }
+    },
+
     // Unit tests.
     nodeunit: {
       tests: ['test/*test.js']
