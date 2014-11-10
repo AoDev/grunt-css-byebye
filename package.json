@@ -39,7 +39,10 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin, css, byebye, remove"
+    "gruntplugin",
+    "css",
+    "byebye",
+    "remove"
   ],
   "dependencies": {
     "css-byebye": "0.2.1"
