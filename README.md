@@ -2,6 +2,11 @@
 
 > Say goodbye to your unwanted css rules with this grunt plugin.
 
+## Unmaintained module
+Note: I have stopped using grunt, gulp or other tasks runners in favor of NPM sripts only.
+You can send pull requests if you wish but I won't work on this module anymore.
+
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
